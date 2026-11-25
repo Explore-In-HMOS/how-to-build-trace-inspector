@@ -2,7 +2,7 @@
 
 # How to build Trace Inspector
 
-This codelab showcases how to build a trace inspector on wearable using HarmonyOS NEXT APIs.
+This codelab showcases how to build a trace inspector on wearable using HarmonyOS APIs.
 
 # Preview
 
